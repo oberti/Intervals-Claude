@@ -4235,7 +4235,7 @@ class IntervalsSync:
                 stats["bail_no_workout_doc"] += 1
 
             # Parse NOTE: lines from description (v0.3 — coach annotations)
-            raw_desc = evt.get("description", "")
+            raw_desc = evt.get("description") or ""
             coach_notes = []
             clean_desc_lines = []
             past_notes = False
