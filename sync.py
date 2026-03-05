@@ -4259,7 +4259,7 @@ class IntervalsSync:
                 "type": evt.get("category", ""),
                 "planned_tss": evt.get("icu_training_load"),
                 "duration_hours": round((evt.get("moving_time") or 0) / 3600, 2),
-                "duration_formatted": self._format_duration(int(evt.get("moving_time", 0))),
+                "duration_formatted": self._format_duration(int(evt.get("moving_time") or 0)),
                 "workout_summary": summary
             }
 
