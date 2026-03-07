@@ -3,7 +3,7 @@
 **Dossier Version:** v1.1.1  
 **Protocol Compatibility:** Section 11 v11.6+  
 **Date:** [DD-MM-YYYY]  
-**Primary Source Systems:** Intervals.icu | [Other platforms]
+**Primary Source Systems:** Intervals.icu | strava | Coach watts | Interval Coach | 
 
 This document serves as a reference template for endurance athletes using the deterministic AI-coaching framework defined in Section 11.
 
@@ -33,7 +33,7 @@ This document serves as a reference template for endurance athletes using the de
 | Target Weight | 69 |
 | Location | BONATE SOPRA, ITALY |
 
-**Weigh-in Protocol:** [e.g., Once weekly, Friday morning, after bathroom, before food/drink]
+**Weigh-in Protocol:** [ Every morning ]
 
 ### Medications & Supplements (Optional)
 
@@ -47,18 +47,18 @@ This document serves as a reference template for endurance athletes using the de
 | Type | Description |
 |------|-------------|
 | Primary | Cycling performance (Endurance) |
-| Secondary | [e.g., Running, SkiErg, Walking] |
+| Secondary | Cycling performance (VO2Max) |
 
 ### Goals
 
 | Goal | Target Date |
 |------|-------------|
-| [Primary goal] | [Year] |
+| [Dolomiti 2026] | [2026] |
 | [Secondary goal] | [Year] |
 | [Tertiary goal] | [Year] |
 
-**Current Phase:** [e.g., Aerobic build + threshold development]  
-**Training Style:** [e.g., High-volume polarized (~15h/week)]
+**Current Phase:** [Aerobic build + threshold development]  
+**Training Style:** [Piramidal 13h/week]
 
 ---
 
@@ -181,7 +181,7 @@ This document serves as a reference template for endurance athletes using the de
 | Metric | Value | Notes |
 |--------|-------|-------|
 | FTP (Outdoor) | 260 | |
-| FTP (Indoor) | [W] | Adjusted for indoor conditions |
+| FTP (Indoor) | 260 | Adjusted for indoor conditions |
 | LT2 Power (MLSS) | [W] | ≈[%] of FTP |
 | LT2 HR | [bpm] | |
 | LT1 (AeT) | [W] | HR ≈[bpm] |
@@ -191,7 +191,7 @@ This document serves as a reference template for endurance athletes using the de
 
 ### Weight Tracking
 
-**Protocol:** [Frequency, conditions]  
+**Protocol:** [Every morning, before breakfast]  
 **Adjustment Control:** Weight adjustments only permitted during readiness-positive periods (DI ≥ 0.95, HR drift ≤ 3%, RI ≥ 0.8)
 
 ---
@@ -328,7 +328,7 @@ This endpoint provides synchronized Intervals.icu metrics for deterministic AI p
 
 This dossier follows the **Section 11 A/B AI Coach Guidance Protocol** for AI integration.
 
-**Protocol Location:** [Link to your Section 11 document or repo]
+**Protocol Location:** `https://github.com/CrankAddict/section-11/main/SECTION_11.md`
 
 ---
 
