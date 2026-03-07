@@ -3,7 +3,7 @@
 **Dossier Version:** v1.1.1  
 **Protocol Compatibility:** Section 11 v11.6+  
 **Date:** [DD-MM-YYYY]  
-**Primary Source Systems:** Intervals.icu | strava | Coach watts | Interval Coach | 
+**Primary Source Systems:** Intervals.icu | Strava | Coach watts | Interval Coach | 
 
 This document serves as a reference template for endurance athletes using the deterministic AI-coaching framework defined in Section 11.
 
@@ -27,10 +27,10 @@ This document serves as a reference template for endurance athletes using the de
 | Field | Value |
 |-------|-------|
 | Name | MANUEL OBERTI |
-| Age | 52 |
-| Height | 175 |
-| Current Weight | 72 |
-| Target Weight | 69 |
+| Age | 52 anni |
+| Height | 175 cm |
+| Current Weight | 72 kg |
+| Target Weight | 69 kg |
 | Location | BONATE SOPRA, ITALY |
 
 **Weigh-in Protocol:** [ Every morning ]
@@ -112,13 +112,13 @@ This document serves as a reference template for endurance athletes using the de
 
 | Day | Primary Session | Duration | Secondary |
 |-----|-----------------|----------|-----------|
-| Sunday | ENDURANCE RIDE | 180 | [Optional] |
+| Sunday | ENDURANCE RIDE | 3h | FLAT OR CLIMB |
 | Monday | [Workout type] | [Duration] | [Optional] |
-| Tuesday | HIIT TRAINING | 150 | [Optional] |
+| Tuesday | HIIT TRAINING | 2h30 | HIIT 30/15 |
 | Wednesday | [Workout type] | [Duration] | [Optional] |
-| Thursday | SWEET SPOT TRAINING | 150 | [Optional] |
+| Thursday | SWEET SPOT TRAINING | 2h30 | 3X15 SWEETSPOT |
 | Friday | [Workout type] | [Duration] | [Optional] |
-| Saturday | LONG RIDE | 300 | [Optional] |
+| Saturday | LONG RIDE | 6h | ENDURANCE + CLIMB |
 
 ### Session Details
 
@@ -163,31 +163,31 @@ This document serves as a reference template for endurance athletes using the de
 
 | Zone | % of FTP | Power (W) | Notes |
 |------|----------|-----------|-------|
-| Z1 | 0–55% | [Calculate] | Active Recovery |
-| Z2 | 56–75% | [Calculate] | Endurance (Base) |
-| Z3 | 76–90% | [Calculate] | Tempo |
-| Z4 | 91–105% | [Calculate] | Threshold |
-| Z5 | 106–120% | [Calculate] | VO₂max |
-| Z6 | 121–150% | [Calculate] | Anaerobic |
-| Z7 | 151%+ | [Calculate] | Neuromuscular |
-| SS | 84–97% | [Calculate] | Sweetspot |
+| Z1 | 0–55% | 0-140 W | Active Recovery |
+| Z2 | 56–75% | 141-180 W| Endurance (Base) |
+| Z3 | 76–90% | 181-210 W | Tempo |
+| Z4 | 91–105% | 211-240 W | Threshold |
+| Z5 | 106–120% | 241-280 W | VO₂max |
+| Z6 | 121–150% | 281-390 W | Anaerobic |
+| Z7 | 151%+ | 391+ W | Neuromuscular |
+| SS | 84–97% | 219-252 W | Sweetspot |
 
-**Current FTP:** 260 (Indoor: [W])  
-**Max HR:** 190  
-**Threshold HR:** 175
+**Current FTP:** 260 W (Indoor: 260 W)  
+**Max HR:** 190 bpm 
+**Threshold HR:** 175 bpm
 
 ### Current Fitness Markers
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| FTP (Outdoor) | 260 | |
-| FTP (Indoor) | 260 | Adjusted for indoor conditions |
+| FTP (Outdoor) | 260 W | |
+| FTP (Indoor) | 260 W | Adjusted for indoor conditions |
 | LT2 Power (MLSS) | [W] | ≈[%] of FTP |
 | LT2 HR | [bpm] | |
 | LT1 (AeT) | [W] | HR ≈[bpm] |
-| VO₂max Interval Power | 320 | |
-| Sweetspot Target | 240 | |
-| Weekly Volume | 13 | [TSS range] |
+| VO₂max Interval Power | 320W | |
+| Sweetspot Target | 240W | |
+| Weekly Volume | 13h | [TSS range] |
 
 ### Weight Tracking
 
@@ -201,7 +201,7 @@ This document serves as a reference template for endurance athletes using the de
 ### Training Fuel Recipe
 
 ```
-[Your carb mix recipe]
+Training Fuel: 60–80 g CHO/h 
 ```
 
 **CHO per bottle:** [g]  
@@ -210,7 +210,7 @@ This document serves as a reference template for endurance athletes using the de
 ### Recovery Drink Recipe
 
 ```
-[Your recovery drink recipe]
+Recovery Drink: 30 g proteine, 60 g CHO
 ```
 
 ### Fueling by Workout Type
@@ -235,9 +235,9 @@ This document serves as a reference template for endurance athletes using the de
 
 ### Current Adaptation Focus
 
-- [ ] [Focus item 1]
-- [ ] [Focus item 2]
-- [ ] [Focus item 3]
+- [ ] AEROBIC ENDURANCE
+- [ ] THESHOLD SUSTAINABILITY
+- [ ] CONSINSTENCY >13 H/WEEK
 - [ ] [Focus item 4]
 
 ### Next-Phase Options
@@ -267,7 +267,9 @@ This document serves as a reference template for endurance athletes using the de
 
 ### Primary Objective
 
-[Your main goal with target time/performance]
+- DOLOMITI HOLIDAYS, MOUNTAN STAGE
+- FTP 270 W
+- CLIMB STAGE
 
 ### Progression Overview
 
