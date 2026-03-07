@@ -328,7 +328,7 @@ This endpoint provides synchronized Intervals.icu metrics for deterministic AI p
 
 This dossier follows the **Section 11 A/B AI Coach Guidance Protocol** for AI integration.
 
-**Protocol Location:** `https://github.com/oberti/Intervals-Claude/main/SECTION_11.md`
+**Protocol Location:** `https://raw.githubusercontent.com/oberti/Intervals-Claude/main/SECTION_11.md`
 
 ---
 
