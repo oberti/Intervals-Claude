@@ -316,7 +316,7 @@ This document serves as a reference template for endurance athletes using the de
 
 ### JSON Endpoint (for AI coaches)
 
-**URL:** `https://github.com/oberti/Intervals-Claude/main/latest.json`
+**URL:** `https://raw.githubusercontent.com/oberti/Intervals-Claude/main/latest.json`
 
 **Archive:** `https://github.com/oberti/Intervals-Claude/main/archive`
 
@@ -328,7 +328,7 @@ This endpoint provides synchronized Intervals.icu metrics for deterministic AI p
 
 This dossier follows the **Section 11 A/B AI Coach Guidance Protocol** for AI integration.
 
-**Protocol Location:** `https://github.com/CrankAddict/section-11/main/SECTION_11.md`
+**Protocol Location:** `https://github.com/oberti/Intervals-Claude/main/SECTION_11.md`
 
 ---
 
